@@ -1,0 +1,22 @@
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\bin\Debug\Przegladarka_PictureViewer.exe.config
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\bin\Debug\Przegladarka_PictureViewer.exe
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\bin\Debug\Przegladarka_PictureViewer.pdb
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\obj\Debug\Przegladarka_PictureViewer.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\obj\Debug\Przegladarka_PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\obj\Debug\Przegladarka_PictureViewer.Form1.resources
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\obj\Debug\Przegladarka_PictureViewer.Properties.Resources.resources
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\obj\Debug\Przegladarka_PictureViewer.csproj.GenerateResource.cache
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\obj\Debug\Przegladarka_PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\obj\Debug\Przegladarka_PictureViewer.exe
+C:\Users\student\Desktop\NIE RUSZAĆ NO\projektowanieopr\Przegladarka_PictureViewer\obj\Debug\Przegladarka_PictureViewer.pdb
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\bin\Debug\Przegladarka_PictureViewer.exe.config
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\bin\Debug\Przegladarka_PictureViewer.exe
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\bin\Debug\Przegladarka_PictureViewer.pdb
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\obj\Debug\Przegladarka_PictureViewer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\obj\Debug\Przegladarka_PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\obj\Debug\Przegladarka_PictureViewer.Form1.resources
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\obj\Debug\Przegladarka_PictureViewer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\obj\Debug\Przegladarka_PictureViewer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\obj\Debug\Przegladarka_PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\obj\Debug\Przegladarka_PictureViewer.exe
+C:\Users\Administrator\Desktop\4aJD\projektowanieopr\Navegador_Picture Viewer\obj\Debug\Przegladarka_PictureViewer.pdb
